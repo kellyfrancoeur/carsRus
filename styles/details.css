@@ -1,0 +1,55 @@
+.options {
+    display: flex;
+    flex-direction: row;
+    padding: 3em;
+    justify-content: space-evenly;
+}
+#paint{
+    border: 1px dashed black;
+    background-color: beige;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    padding: 0.5em;
+}
+
+#fabric{
+    border: 1px dashed black;
+    background-color: beige;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    padding: 0.5em;
+}
+
+#tech {
+    border: 1px dashed black;
+    background-color: beige;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    padding: 0.5em;
+}
+
+#wheelies {
+    border: 1px dashed black;
+    background-color: beige;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    padding: 0.5em;
+}
+
+.customOrders {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed darkblue;
+    background-color: lightblue;  
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    justify-content: space-evenly;
+}
+
+.orderSpace {
+    padding: 3em;
+}
+
